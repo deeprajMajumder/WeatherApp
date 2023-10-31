@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_your_city">Search your city</string>
+    <string name="demo_date">13th September, 12:51pm</string>
+    <string name="day">Day 13</string>
+    <string name="main_temp">16°</string>
+    <string name="feels_like">Feels like</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="default_numbers">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="sunrise">5:30 AM</string>
+    <string name="sun_rise">Sun rise</string>
+    <string name="sunset">06:00 PM</string>
+    <string name="sun_set">Sun set</string>
+    <string name="default_temp">35°C</string>
+    <string name="temperature_in_c">Temperature in °C</string>
+</resources>
