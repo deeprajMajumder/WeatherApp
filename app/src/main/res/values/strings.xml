@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">WeatherWise</string>
     <string name="search_your_city">Search your city</string>
     <string name="demo_date">13th September, 12:51pm</string>
     <string name="day">Day 13</string>
